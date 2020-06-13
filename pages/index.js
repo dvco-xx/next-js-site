@@ -41,7 +41,7 @@ export default function Home({ allPostsData }) {
           {" "}
           Please buy me a coffee at{" "}
           <a href="https://www.buymeacoffee.com/dico"> buymeacoffee.com </a> or
-          at <a href="https://ko-fi.com/dirtyfaceddave"> ko-fi.com </a>
+          <a href="https://ko-fi.com/dirtyfaceddave"> ko-fi.com </a>
           to support what I do!
         </p>
       </section>
